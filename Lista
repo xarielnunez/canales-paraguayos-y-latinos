@@ -176,7 +176,7 @@ http://23.237.54.42/hls/SPACEMX.m3u8
 http://23.237.54.42/hls/SYFYMX.m3u8
 
 #EXTINF:-1,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAwNzg1MTIyLCJzZXNzaW9uIjoiMTgxLjEyMS43NS4yMDAiLCJ3aGl0ZWxpc3QiOlsiMTgxLjEyMS43NS4yMDAiXX0sInNpZ25hdHVyZSI6IjkyYzA1MWY1ZDhkOTdjYTljYWVmOWEyNzA0Zjg1MGM5ZjVkMDRlM2YifQ%3D%3D
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAwODc3NzM5LCJzZXNzaW9uIjoiMTgxLjEyMS43NS4yMDAiLCJ3aGl0ZWxpc3QiOlsiMTgxLjEyMS43NS4yMDAiXX0sInNpZ25hdHVyZSI6IjdjODM0MTJiOGVjZTQ4MTc4ODg1YWFjMjI2NWRiMTIwMDM2NWJmMzgifQ%3D%3D
 
 #EXTINF:-1,TBS
 http://23.237.54.42/hls/TBSMX.m3u8
