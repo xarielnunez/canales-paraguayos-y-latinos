@@ -130,8 +130,8 @@ http://23.237.54.42/hls/HISTORYMX.m3u8
 #EXTINF:-1,HBO FAMILY
 https://ul.cdn946.net:8443/hls/ojp1z6ukt31d2p.m3u8?s=VVNkXswvO8Mu42qDBFDsuQ&e=1601183149
 
-#EXTINF:-1,HBO PREMIUM
-https://ul.cdn946.net:8443/hls/dessr6srnzki.m3u8?s=Ni2plpIUXjVTboG_zY5hhw&e=1600809016
+#EXTINF:-1,HBO PLUS
+https://ul.cdn946.net:8443/hls/dessr6srnzki.m3u8?s=3NWCfgzfqdRfOkyJv2Aj4A&e=1601183463
 
 #EXTINF:-1,ID
 http://23.237.54.42/hls/INVESTIGATIONDISCOVERYMX.m3u8
