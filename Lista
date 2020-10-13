@@ -121,6 +121,9 @@ http://23.237.54.42/hls/GOLDENEDGEMX.m3u8
 #EXTINF:-1,GOLDEN PLUS
 http://23.237.54.42/hls/GOLDENPLUSMX.m3u8
 
+#EXTINF:-1,GEN HD
+https://gruponacion.castr.io/edge-en/ngrp:live_9ff9073080be11e9b616571fef7afaa2_all/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,GOURMET
 http://23.237.54.42/hls/GOURMETMX.m3u8
 
