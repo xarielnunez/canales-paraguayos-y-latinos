@@ -77,34 +77,31 @@ http://23.237.54.42/hls/ESPN3MX.m3u8
 http://23.237.54.42/hls/FOROTVMX.m3u8
 
 #EXTINF:-1,FOX
-http://23.237.54.42/hls/FOXMX.m3u8
+http://ingrid.ltd:25461/live/Cc1/Cc1/13022.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1,FOX ACTION
-http://23.237.54.42/hls/FOXACTIONMX.m3u8
-
-#EXTINF:-1,FOX CINEMA
-http://23.237.54.42/hls/FOXCINEMAMX.m3u8
+http://185.232.53.5:2086/gennaro/gennaro/92591?checkedby:hlscat.com
 
 #EXTINF:-1,FOX CLASIC
-http://23.237.54.42/hls/FOXCLASSICMX.m3u8
+http://185.232.53.5:2086/gennaro/gennaro/92589?checkedby:hlscat.com
 
 #EXTINF:-1,FOX MOVIES
-http://23.237.54.42/hls/FOXMOVIESMX.m3u8
+https://espare.tk/live/fox_movies_lat-4866.ts
 
 #EXTINF:-1,FOX FAMILY
-https://ul.cdn946.net:8443/hls/iut8v91.m3u8?s=fMkY18zInXTbOaqx-M-mbg&e=1600809887
+http://185.232.53.5:2086/gennaro/gennaro/98785?checkedby:hlscat.com
 
 #EXTINF:-1,FOX SERIES
-http://23.237.54.42/hls/FOXSERIESMX.m3u8
+http://185.232.53.5:2086/gennaro/gennaro/92585?checkedby:hlscat.com
 
 #EXTINF:-1,FOXSPORTS
-http://23.237.54.42/hls/FOXSPORTSMX.m3u8
+http://uruguayiptv.com:25461/Valeria/Valeria2020/484?checkedby:hlscat.com
 
 #EXTINF:-1,FOXSPORTS 2
-http://23.237.54.42/hls/FOXSPORTS2MX.m3u8
+http://ingrid.ltd:25461/live/Cc1/Cc1/23953.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1,FOXSPORTS 3
-http://23.237.54.42/hls/FOXSPORTS3MX.m3u8
+http://uruguayiptv.com:25461/Valeria/Valeria2020/486?checkedby:hlscat.com
 
 #EXTINF:-1,FX
 http://23.237.54.42/hls/FXMX.m3u8
@@ -124,17 +121,17 @@ http://23.237.54.42/hls/GOLDENPLUSMX.m3u8
 #EXTINF:-1,GEN HD
 https://gruponacion.castr.io/edge-en/ngrp:live_9ff9073080be11e9b616571fef7afaa2_all/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,GOURMET
-http://23.237.54.42/hls/GOURMETMX.m3u8
+#EXTINF:-1,EL GOURMET
+http://185.232.53.5:2086/gennaro/gennaro/92594?checkedby:hlscat.com
 
 #EXTINF:-1,HISTORY
-http://23.237.54.42/hls/HISTORYMX.m3u8
+http://185.232.53.5:2086/gennaro/gennaro/92567?checkedby:hlscat.com
 
 #EXTINF:-1,HBO FAMILY
-https://ul.cdn946.net:8443/hls/ojp1z6ukt31d2p.m3u8?s=VVNkXswvO8Mu42qDBFDsuQ&e=1601183149
+http://185.232.53.5:2086/gennaro/gennaro/92570?checkedby:hlscat.com
 
 #EXTINF:-1,HBO PLUS
-https://ul.cdn946.net:8443/hls/dessr6srnzki.m3u8?s=3NWCfgzfqdRfOkyJv2Aj4A&e=1601183463
+http://185.232.53.5:2086/gennaro/gennaro/92569?checkedby:hlscat.com
 
 #EXTINF:-1,Discovery Home & Health
 http://89.105.194.59:25461/live/spdocYWt/spdocYWt/79.m3u8
@@ -216,8 +213,6 @@ http://23.237.32.130/hls/UNIVISION.m3u8
 
 #EXTINF:-1,WARNER
 http://23.237.54.42/hls/WARNERCHANNELMX.m3u8
-
-#EXTINF:-1,A PARTIR DE ACA CANALES DE BRASIL
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Variedades", A partir de aca canales brasileros
 https://listaiptv.gratis/site.mp4
